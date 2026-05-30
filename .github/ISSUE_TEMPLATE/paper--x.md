@@ -14,7 +14,7 @@ assignees: ''
 **Q2: What is the insight from this paper that is helpful to my own project? (30 minutes)**
 *Example: Reasoning should be interleaved with actions.*
 
-**Q3: What is the architecture? (Inputs, Outputs, Components, Data Flow) (30 minutes)**
+**Q3: What is the minimal architecture? (Inputs, Outputs, Components, Data Flow) (30 minutes)**
 *Example ReAct:*
 ```
 User
@@ -31,16 +31,6 @@ Loop
 Final Answer
 ``` 
 
-**Q4: Define MVP (10 minutes)**
-*Example ReAct:*
-```
-GPT
-+
-Wikipedia Tool
-+
-Loop
-```
-
-*Question 5: What is the limitation of the paper idea that you can think of?*
+**Question 4: What is the limitation of the paper idea that you can think of?**
 
 **Goal: Reproduce the paper idea!**
